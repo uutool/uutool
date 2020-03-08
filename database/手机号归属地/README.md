@@ -3,7 +3,7 @@
 
 ## 数据来源
 
-原始数据来源：https://github.com/xluohome/phonedata
+原始数据来源：https://github.com/xluohome/phonedata（非常感谢作者的精心整理！）
 
 原始数据文件：（phonetmp.csv）
 https://gitee.com/oss/phonedata/attach_files
